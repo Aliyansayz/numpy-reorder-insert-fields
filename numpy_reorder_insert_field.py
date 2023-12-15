@@ -1,4 +1,4 @@
-class numpy_insert_reorder_field:
+class numpy_reorder_insert_field:
   @classmethod
   def reorder_fields(cls, structured_array, field_to_change, target_index):
 
